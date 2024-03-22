@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/addi00000"><img src="https://img.shields.io/github/followers/2ummrs?style=for-the-badge"></img></a>
   <a href="https://github.com/addi00000"><img src="https://img.shields.io/github/stars/2ummrs?style=for-the-badge"></img></a>
-  <a href="https://blare.win"><img src="https://img.shields.io/website?down_message=blare.win%20is%20down%21&style=for-the-badge&up_message=wanted.lol%20is%20up%21&url=https%3A%2F%2Fwanted.lol"></img></a>
+  <a href="https://blare.win"><img src="https://img.shields.io/website?down_message=blare.win%20is%20down%21&style=for-the-badge&up_message=blare.win%20is%20up%21&url=https%3A%2F%2Fblare.win"></img></a>
 </p>
 
 <p align="center">

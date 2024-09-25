@@ -10,10 +10,3 @@
 </p>
 
 <p align="center"><img src="https://count.getloli.com/get/@:2ummrs" alt=":2ummrs" /></p>
-
-<p align="center">
-  <a href="https://discord.com/users/1107903478451408936"> <img align="center" src="https://lanyard.kyrie25.me/api/1107903478451408936?waveColor=fff&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000"/></a>
-  <br>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=xxx-os&color=gray&style=plastic" alt=":name" />
-</p>

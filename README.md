@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/auravoid/auravoid/dist/github-metrics.svg" alt="Metrics">
+<img src="https://raw.githubusercontent.com/2ummrs/2ummrs/dist/github-metrics.svg" alt="Metrics">
 
 </div>
 

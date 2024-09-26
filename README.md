@@ -9,4 +9,10 @@
   <a href="https://github.com/2ummrs"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
 </p>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/auravoid/auravoid/dist/github-metrics.svg" alt="Metrics">
+
+</div>
+
 <p align="center"><img src="https://count.getloli.com/get/@:2ummrs" alt=":2ummrs" /></p>

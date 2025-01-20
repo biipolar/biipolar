@@ -9,4 +9,4 @@
   <a href="https://github.com/biipolar"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
 </p>
 
-<p align="center"><img src="https://count.getloli.com/get/@:biipolar" alt=":biipolar" /></p>
+<a href="https://github.com/printinqq?tab=followers"><img src="https://img.shields.io/github/followers/printinqq?label=Followers&style=social" alt="GitHub Badge"></a>
